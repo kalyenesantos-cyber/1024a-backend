@@ -181,6 +181,6 @@ catch(erro){
 }
 
 
-//Crie uma função que tenha 50% de chance de retornar tere ou 
-// a função devolve o valor null
-//  function devolveTere()
+// Crie uma função que tenha 50% de chance de retornar tere após 
+// 5 segundos ou a função devolve o valor null
+// function devolveTere()
